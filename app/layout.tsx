@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'MoraSpirit | Members',
+  title: 'MoraSpirit | Member Dashboard',
   description: 'Check member availability in real-time',
 };
 
