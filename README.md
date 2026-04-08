@@ -289,10 +289,15 @@ cp .env.local.example .env.local
 ## Accessibility (WCAG 2.1 AA)
 
 ✅ Keyboard navigation (Tab, Enter, Space)
+
 ✅ ARIA labels on interactive elements
+
 ✅ Focus indicators visible
+
 ✅ Semantic HTML structure
+
 ✅ Color contrast ratios: 4.5:1+ (AA compliant)
+
 ✅ Screen reader support
 
 ---
