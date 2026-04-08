@@ -3,7 +3,10 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'MoraSpirit | Member Dashboard',
-  description: 'Check member availability in real-time',
+  description: 'MoraSprit Member Dashboard: Check availability in real-time',
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export const viewport: Viewport = {
